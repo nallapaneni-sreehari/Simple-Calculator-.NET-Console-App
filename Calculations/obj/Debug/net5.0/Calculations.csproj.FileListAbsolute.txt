@@ -1,0 +1,12 @@
+C:\Users\Sree\Desktop\.NET Training\Calculations\bin\Debug\net5.0\Calculations.deps.json
+C:\Users\Sree\Desktop\.NET Training\Calculations\bin\Debug\net5.0\Calculations.dll
+C:\Users\Sree\Desktop\.NET Training\Calculations\bin\Debug\net5.0\ref\Calculations.dll
+C:\Users\Sree\Desktop\.NET Training\Calculations\bin\Debug\net5.0\Calculations.pdb
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.csproj.AssemblyReference.cache
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfo.cs
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.dll
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\ref\Calculations.dll
+C:\Users\Sree\Desktop\.NET Training\Calculations\obj\Debug\net5.0\Calculations.pdb
